@@ -1,8 +1,4 @@
-# React JS Restaurant Website Project | Responsive Bootstrap 5 Design
-
-## Tutorial YouTube link - [React JS Restaurant Website Project | Responsive Bootstrap 5 Design](https://youtu.be/MczKE_IWNjQ?si=O3S3Stx1bhVgza3X)
-
-<img src="React JS Restaurant Website Img.jpg" alt="React JS Restaurant Website" />
+# React JS Clinic Project | Responsive Bootstrap 5 Design
 
 ## For this website I used:
 - [React JS](https://react.dev/)
